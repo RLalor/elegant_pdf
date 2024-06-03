@@ -1,2 +1,3 @@
-converts many different images to a pdf file. They need to be in the same folder as the script running the program.
-It works well but I hope to make it a bit better in future
+this branches version is a work in progress to make the program work from any random directory and not just the current working directory.
+It may not be functioning. For the functioning version use the initial commit version on the main branch.
+
